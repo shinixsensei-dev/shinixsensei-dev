@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Luna! (She/Her)
+Currently a hobby Dev knowing some languages, but I also do **3D Art** which you can view on my [DeviantArt Profile](https://deviantart.com/shinixsensei).
+
 <!--
 **shinixsensei-dev/shinixsensei-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
