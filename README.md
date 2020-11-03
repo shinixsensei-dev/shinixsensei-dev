@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Luna! (She/Her)
+I am Luna! (She/They)
 Currently a hobby Dev knowing some languages, but I also do **3D Art** which you can view on my [DeviantArt Profile](https://deviantart.com/shinixsensei).
 
 <!--
