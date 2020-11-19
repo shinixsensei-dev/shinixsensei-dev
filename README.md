@@ -3,7 +3,7 @@
 I am Luna! (She/They)
 Currently a hobby Dev knowing some languages, but I also do **3D Art** which you can view on my [DeviantArt Profile](https://deviantart.com/shinixsensei).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinixsensei-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinixsensei-dev)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 <!--
 **shinixsensei-dev/shinixsensei-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
