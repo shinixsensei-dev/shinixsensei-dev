@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Yuki</h1>
 <h3 align="center">I'm a hobby Developer from Germany, mostly using Java to make things. I'm also doing Art & Music!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinixsensei-dev&label=Profile%20views&color=000000&style=flat" alt="shinixsensei-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelsflyinhell&label=Profile%20views&color=000000&style=flat" alt="angelsflyinhell" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinixsensei-dev" alt="shinixsensei-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelsflyinhell" alt="angelsflyinhell" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/angelsflyinhell" target="blank"><img src="https://img.shields.io/twitter/follow/angelsflyinhell?logo=twitter&style=for-the-badge" alt="angelsflyinhell" /></a> </p>
 
