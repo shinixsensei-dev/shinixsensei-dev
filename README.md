@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/angelsflyinhell" target="blank"><img src="https://img.shields.io/twitter/follow/angelsflyinhell?logo=twitter&style=for-the-badge" alt="angelsflyinhell" /></a> </p>
 
-- 🔭 I’m currently working on [Atsuko](https://github.com/namespace-media/yamazaki)
+- 🔭 I’m currently working on [XAnime](https://github.com/angelsflyinhell/XAnime)
 
 - 🌱 I’m currently learning **AI Development, Python and JavaScript**
 
