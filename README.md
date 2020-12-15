@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/angelsflyinhell" target="blank"><img src="https://img.shields.io/twitter/follow/angelsflyinhell?logo=twitter&style=for-the-badge" alt="angelsflyinhell" /></a> </p>
 
-- 🔭 I’m currently working on Reverse enineering Cyberpunk2077.
+- 🔭 I’m currently working on Reverse enineering Cyberpunk2077. Believe me, it's pretty fuN!
 
 - 🌱 I’m currently learning **AI Development, Python and JavaScript**
 
-- 💬 Ask me about **Java, Unity & Blender**
+- 💬 Ask me about **Java, Unity & Blender, Cyberpunk2077 Reverse engineering (especially reading out archives and dealing with files in those.), CP77 Gameassets and Models!**
 
 - 📫 How to reach me **azami@namespace.media**
 
