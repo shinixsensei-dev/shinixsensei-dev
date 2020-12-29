@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on the XP Discord Bot.
 
-- 📫 How to reach me **azami@namespace.media**
+- 📫 How to reach me: **azami@namespace.media** or via Discord at angelsflyinhell#2077
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
