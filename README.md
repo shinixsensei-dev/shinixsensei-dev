@@ -1,6 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Yuki</h1>
 <h3 align="center">I'm a hobby Developer from Germany, mostly using Java to make things. I'm also doing Art & Music!</h3>
 
+<img src="https://images-ext-1.discordapp.net/external/wyh94k_KzgcsHC4GFkA4rRaEBt3oXXBqv67YvV1n0uc/https/namespace.media/img/images/2020/12/30/idea64_iLhaE9YoEb.png"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelsflyinhell&label=Profile%20views&color=000000&style=flat" alt="angelsflyinhell" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelsflyinhell" alt="angelsflyinhell" /></a> </p>
