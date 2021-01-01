@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: **azami@namespace.media** or via Discord at angelsflyinhell#2077
 
-- I'm currently learning JavaScript. Full Documentation [here](https://github.com/angelsflyinhell/JSLearning)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/angelsflyinhell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="angelsflyinhell" height="30" width="40" /></a>
