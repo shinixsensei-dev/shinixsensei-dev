@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Yuki</h1>
-<h3 align="center">Java / TypeScript!</h3>
+<h3 align="center">Java / TypeScript</h3>
 
 <img src="https://images-ext-1.discordapp.net/external/wyh94k_KzgcsHC4GFkA4rRaEBt3oXXBqv67YvV1n0uc/https/namespace.media/img/images/2020/12/30/idea64_iLhaE9YoEb.png"/>
 
