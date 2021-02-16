@@ -19,6 +19,5 @@
 <a href="https://instagram.com/angelsflyinhell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="angelsflyinhell" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelsflyinhell&show_icons=true&theme=radical&locale=en&layout=compact" alt="angelsflyinhell" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelsflyinhell&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelsflyinhell&show_icons=true&theme=radical&locale=en" alt="angelsflyinhell" /></p>
