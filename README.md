@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Yuki</h1>
-<h3 align="center">Java / TypeScript / JavaScript </h3>
+<h3 align="center">Java / TypeScript / JavaScript / Tablecord</h3>
 
 <img src="https://images-ext-1.discordapp.net/external/wyh94k_KzgcsHC4GFkA4rRaEBt3oXXBqv67YvV1n0uc/https/namespace.media/img/images/2020/12/30/idea64_iLhaE9YoEb.png"/>
 <img src="https://cdn.discordapp.com/attachments/678205626987577344/819255499274584104/unknown.png"/>
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/angelsflyinhell" target="blank"><img src="https://img.shields.io/twitter/follow/angelsflyinhell?logo=twitter&style=for-the-badge" alt="angelsflyinhell" /></a> </p>
 
-- 🔭 I’m currently working on riptearLang.
+- 🔭 I’m currently working on Tablecord.
 
 - 📫 How to reach me: **azami@namespace.media** or via Discord at angelsflyinhell#2077
 
@@ -21,5 +21,3 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelsflyinhell&theme=tokyonight)
-
-(with top I mean the language I used the most, not the languages I know best because then there wouldn't be any)
