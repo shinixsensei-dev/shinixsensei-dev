@@ -21,4 +21,3 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelsflyinhell&theme=tokyonight)
-![Tablecord](https://namespace.media/img/images/2021/04/07/msedge_VH2SEuB6dC.png)
