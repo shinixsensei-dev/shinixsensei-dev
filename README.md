@@ -22,3 +22,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelsflyinhell&theme=tokyonight)
 
+(with top I mean the language I used the most, not the languages I know best because then there wouldn't be any)
