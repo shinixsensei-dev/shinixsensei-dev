@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Yuki</h1>
 <h3 align="center">Java / TypeScript / JavaScript / Tablecord</h3>
+<h4 align="center">Official HugoChat Contributor</h3>
 
 <img src="https://images-ext-1.discordapp.net/external/wyh94k_KzgcsHC4GFkA4rRaEBt3oXXBqv67YvV1n0uc/https/namespace.media/img/images/2020/12/30/idea64_iLhaE9YoEb.png"/>
 <img src="https://cdn.discordapp.com/attachments/678205626987577344/819255499274584104/unknown.png"/>
